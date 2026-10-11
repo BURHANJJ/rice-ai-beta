@@ -6,9 +6,9 @@
 
 **ถ่ายรูปใบข้าว รู้โรคในไม่กี่วินาที ใช้ได้แม้ไม่มีสัญญาณอินเทอร์เน็ต**
 
-[![ดาวน์โหลดรุ่นล่าสุด](https://img.shields.io/github/v/release/BURHANJJ/rice-ai-beta?include_prereleases&label=%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&color=1f4d3a)](https://github.com/BURHANJJ/rice-ai-beta/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/BURHANJJ/rice-ai-beta?label=release&color=1f4d3a)](https://github.com/BURHANJJ/rice-ai-beta/releases/latest)
 ![Android 6.0+](https://img.shields.io/badge/Android-6.0%2B-3ddc84?logo=android&logoColor=white)
-![ดาวน์โหลด](https://img.shields.io/github/downloads/BURHANJJ/rice-ai-beta/total?label=%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%99%E0%B9%8C%E0%B9%82%E0%B8%AB%E0%B8%A5%E0%B8%94&color=c89b3c)
+![Downloads](https://img.shields.io/github/downloads/BURHANJJ/rice-ai-beta/total?label=downloads&color=c89b3c)
 
 [ดาวน์โหลด](#ดาวน์โหลด) · [ใช้ได้อะไรบ้าง](#ใช้ได้ในรุ่นนี้) · [วิธีติดตั้ง](#วิธีติดตั้ง) · [แจ้งปัญหา](https://github.com/BURHANJJ/rice-ai-beta/issues/new/choose) · [เว็บไซต์](https://rice-ai-appp.web.app)
 
