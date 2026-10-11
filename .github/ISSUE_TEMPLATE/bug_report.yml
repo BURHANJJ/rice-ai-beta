@@ -1,0 +1,49 @@
+name: แจ้งปัญหา
+description: แอปค้าง ปิดเอง ทายผิดชัดเจน หรือใช้งานไม่ได้
+title: "[ปัญหา] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: เกิดอะไรขึ้น
+      description: เล่าสั้น ๆ ว่าทำอะไรอยู่ แล้วเจออะไร
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: ทำซ้ำยังไง
+      placeholder: |
+        1. เปิดหน้า...
+        2. แตะ...
+        3. เห็น...
+  - type: input
+    id: device
+    attributes:
+      label: รุ่นโทรศัพท์และเวอร์ชัน Android
+      placeholder: เช่น Samsung A54 · Android 14
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: เวอร์ชันแอป
+      options:
+        - 0.9.0 (arm64)
+        - 0.9.0 (arm32)
+    validations:
+      required: true
+  - type: dropdown
+    id: network
+    attributes:
+      label: ตอนนั้นมีอินเทอร์เน็ตไหม
+      options:
+        - มี
+        - ไม่มี
+        - ไม่แน่ใจ
+  - type: textarea
+    id: shots
+    attributes:
+      label: ภาพหน้าจอ
+      description: ลากรูปมาวางได้ (กรุณาปิดชื่อหรือพิกัดถ้าไม่ต้องการเปิดเผย)

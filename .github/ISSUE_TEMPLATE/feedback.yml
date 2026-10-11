@@ -1,0 +1,16 @@
+name: ข้อเสนอแนะ
+description: อยากให้เพิ่มหรือปรับอะไร
+title: "[เสนอแนะ] "
+labels: ["feedback"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: อยากให้มีอะไร หรือปรับตรงไหน
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: ช่วยในการทำงานยังไง
+      description: เช่น ใช้ตอนไหน ในแปลงแบบไหน
